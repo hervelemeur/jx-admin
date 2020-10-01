@@ -4,7 +4,7 @@ require (
 	cloud.google.com/go v0.55.0 // indirect
 	github.com/Azure/go-autorest/autorest v0.9.6 // indirect
 	github.com/cpuguy83/go-md2man v1.0.10
-	github.com/google/go-cmp v0.4.1
+	github.com/google/go-cmp v0.5.2
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/googleapis/gnostic v0.4.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
